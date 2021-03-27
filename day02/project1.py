@@ -1,0 +1,6 @@
+a=int(input("请输入两个数"))
+b=int(input())
+print(a,'+',b,'=',a+b)
+print(a,'-',b,'=',a-b)
+print(a,'*',b,'=',a*b)
+print("a/b="'%0.2f'%(1.0*a/b))
